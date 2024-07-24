@@ -12,6 +12,6 @@ session_start();
 <body>
     <h1>Welcome to HeckerVPS</h1>
     <p>To get started, please <a href="register.php">create an account</a>.</p>
-    <p>Already have an account? Login to the <a href="https://panel.yourdomain.com">control panel</a>.</p>
+    <p>Already have an account? Login to the <a href="https://example.com/panel">control panel</a>.</p>
 </body>
 </html>
